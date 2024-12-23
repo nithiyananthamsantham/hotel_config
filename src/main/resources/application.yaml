@@ -1,0 +1,8 @@
+#spring.application.name=config_server
+
+server:
+  port: 9797
+  
+spring:
+  application:
+    name: config_server 
